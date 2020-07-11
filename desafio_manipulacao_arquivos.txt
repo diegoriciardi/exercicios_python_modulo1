@@ -1,0 +1,9 @@
+1 texto texto texto
+2 texto, texto
+3 texto, texto, texto
+4 arquivo para teste
+5 de
+6 manipulação de arquivos
+7 no
+8 python
+9 versão 3
